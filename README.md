@@ -159,10 +159,13 @@ Add screenshots of your dashboard here.
 Example:
 
 ```
-![Dashboard](https://github.com/YousraKanwal121/Named-Entity-Recognition-NER-/blob/main/ner 1.png)
-![Dashboard](https://github.com/YousraKanwal121/Named-Entity-Recognition-NER-/blob/main/ner 2.png)
-![Dashboard](https://github.com/YousraKanwal121/Named-Entity-Recognition-NER-/blob/main/ner3.png)
-![Dashboard](https://github.com/YousraKanwal121/Named-Entity-Recognition-NER-/blob/main/ner 4.png)
+![Dashboard 1](https://github.com/YousraKanwal121/Named-Entity-Recognition-NER-/blob/main/ner%201.png)
+
+![Dashboard 2](https://github.com/YousraKanwal121/Named-Entity-Recognition-NER-/blob/main/ner%202.png)
+
+![Dashboard 3](https://github.com/YousraKanwal121/Named-Entity-Recognition-NER-/blob/main/ner3.png)
+
+![Dashboard 4](https://github.com/YousraKanwal121/Named-Entity-Recognition-NER-/blob/main/ner%204.png)
 ```
 ```
 
