@@ -1,4 +1,4 @@
-# 🧠 Named Entity Recognition (NER) using spaCy
+# 🧠 Name Entity Recognition (NER) using spaCy
 
 A Custom Named Entity Recognition (NER) system developed using **Python** and **spaCy** to identify named entities from article-based datasets. The project includes data preprocessing, model training, evaluation, and an interactive **Streamlit dashboard** where users can enter text and receive predicted entities in real time.
 
@@ -139,13 +139,13 @@ streamlit run app.py
 
 Add screenshots of your dashboard here.
 
-![NER Screenshot 1](https://raw.githubusercontent.com/YousraKanwal121/Named-Entity-Recognition-NER-/main/ner1.PNG)
+![NER Screenshot 1](https://raw.githubusercontent.com/YousraKanwal121/Name-Entity-Recognition-NER-/main/ner1.PNG)
 
-![NER Screenshot 2](https://raw.githubusercontent.com/YousraKanwal121/Named-Entity-Recognition-NER-/main/ner2.PNG)
+![NER Screenshot 2](https://raw.githubusercontent.com/YousraKanwal121/Name-Entity-Recognition-NER-/main/ner2.PNG)
 
-![NER Screenshot 3](https://raw.githubusercontent.com/YousraKanwal121/Named-Entity-Recognition-NER-/main/ner3.PNG)
+![NER Screenshot 3](https://raw.githubusercontent.com/YousraKanwal121/Name-Entity-Recognition-NER-/main/ner3.PNG)
 
-![NER Screenshot 4](https://raw.githubusercontent.com/YousraKanwal121/Named-Entity-Recognition-NER-/main/ner4.PNG)
+![NER Screenshot 4](https://raw.githubusercontent.com/YousraKanwal121/Name-Entity-Recognition-NER-/main/ner4.PNG)
 
 ---
 
